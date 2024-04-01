@@ -1,0 +1,11 @@
+@AcmeWebApi_HostAddress = http://localhost:5009
+
+GET {{AcmeWebApi_HostAddress}}/contacts/
+Accept: application/json
+
+###
+
+GET {{AcmeWebApi_HostAddress}}/contacts/1
+Accept: application/json
+
+###

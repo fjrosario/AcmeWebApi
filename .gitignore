@@ -1,0 +1,14 @@
+*.dll
+*.pdb
+Acme.Core/bin/
+Acme.Core/obj/
+Acme.Data/bin/
+Acme.Data/obj/
+Acme.Domain.Tests/bin/
+Acme.Domain.Tests/obj/Debug/
+ConsoleApp1/.vs/
+ConsoleApp1/ConsoleApp1/obj/
+Todo/
+ConsoleApp1/ConsoleApp1/bin/Debug/
+Acme.Domain.Tests/obj/
+ConsoleApp1/
